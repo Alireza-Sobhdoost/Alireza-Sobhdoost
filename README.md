@@ -21,6 +21,7 @@ I also love **open-source development** and optimizing workflows.
 ![Open Source](https://img.shields.io/badge/Open%20Source-00ADEF?logo=github&logoColor=FFFFFF&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFFFFF&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge)
+![ZIG](https://img.shields.io/badge/ZIG-FF8C00?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=FFFFFF&style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-FF8C00?style=for-the-badge)
 
