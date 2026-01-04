@@ -28,7 +28,7 @@ I also love **open-source development** and optimizing workflows.
 ---
 
 ## 📊 GitHub Stats
-![Behraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alireza-Sobhdoost&show_icons=true&theme=tokyonight)
+![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alireza-Sobhdoost&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Sobhdoost&layout=compact&theme=tokyonight)
 
